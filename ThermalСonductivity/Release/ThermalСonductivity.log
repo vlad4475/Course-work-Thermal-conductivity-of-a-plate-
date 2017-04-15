@@ -1,0 +1,16 @@
+﻿Сборка начата 15.04.2017 15:50:24.
+     1>Проект "C:\Users\vlad\Documents\Visual Studio 2013\Projects\ThermalСonductivity\ThermalСonductivity\ThermalСonductivity.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Drow.cpp main.cpp Plate.cpp
+         Drow.cpp
+     1>c:\users\vlad\documents\visual studio 2013\projects\thermalсonductivity\thermalсonductivity\Drow.h(2): fatal error C1083: Не удается открыть файл включение: GL/glut.h: No such file or directory
+         main.cpp
+     1>main.cpp(1): fatal error C1083: Не удается открыть файл включение: GL/glut.h: No such file or directory
+         Plate.cpp
+     1>Plate.cpp(17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>Plate.cpp(18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>Сборка проекта "C:\Users\vlad\Documents\Visual Studio 2013\Projects\ThermalСonductivity\ThermalСonductivity\ThermalСonductivity.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.85
